@@ -26,3 +26,7 @@ The different keywords of the python dictionary can be listed using
 and the individual entries can be loaded using the appropriate
 keyword, e.g. for the energy
 >>> energies = data["E"]
+
+
+
+Simulations were carried out with the pyCHARMM API linked to c47a2. 
