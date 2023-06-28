@@ -16,7 +16,7 @@ Z: Atomic number of atoms, (num_data, N)
 ACCESS DATA SET:
 
 The data sets can be accessed using python:
->>> data = np.load("criegee_dataset_PhysNet.npz")
+>>> data = np.load("dataset.npz")
 
 The different keywords of the python dictionary can be listed using
 >>> data.files
